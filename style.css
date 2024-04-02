@@ -1,0 +1,18 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #007bff;
+    transition: background-color 0.5s ease;
+  }
+  
+  .navbar-brand {
+    color: #ffffff;
+    padding: 10px;
+    transition: color 0.5s ease;
+  }
+  
+  .navbar-brand:hover {
+    color: #000000;
+  }
